@@ -1,0 +1,14 @@
+{
+  "name": "socialia-forum",
+  "version": "0.9.0",
+  "private": true,
+  "description": "Social Simulation Lab — Maria João Abujamra × Grok (xAI)",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.mjs",
+    "validate": "node server/validate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
